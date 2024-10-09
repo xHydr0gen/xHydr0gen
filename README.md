@@ -46,10 +46,10 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=xHydr0gen&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Hydrogen" />
   </a>
 </div>
+<br>
 
 <br>
 <h2 align="center">🦁 Where to find me 🦁</h2>
-<br>
 <!-- https://icons8.com -->
 <div align="center">
     <a href="https://www.facebook.com/profile.php?id=100064820711777" target="blank">
