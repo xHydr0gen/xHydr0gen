@@ -58,10 +58,6 @@
   <a href="https://www.youtube.com/@anhtuannguyen4981" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Hydrogen-youtube" />
   </a>
-  </a>
-  <a href="mailto:nguyenanhtuan15092003@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Hydrogen-email" />
-  </a>
 </div>
 
 
