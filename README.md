@@ -2,8 +2,19 @@
   <img src="svg/hydrogen.svg" width="1200" alt="Hydrogen" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
+# Hi there 👋, I'm Hydrogen!
+
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and technology. Here's a little bit about me:
+
+## 🚀 About Me
+
+- 🔭 I have a passion for **Natural language processing** and am currently learning about them.
+- 🌱 I’m currently learning to become a **Full Stack Developer**.
+- 📫 How to reach me: [Email](mailto:nguyenanhtuan15092003@gmail.com)
+- 🎮 Fun fact: I like to sleep and play **Arena Of Valor**.
+
+## 🛠️ Technologies and Tools
+
 <!-- https://simpleicons.org/ -->
 
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -34,30 +45,23 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Hydrogen">
-    <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xHydr0gen&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="xHydr0gen" />
-  </a>
-  <a href="#" title="Hydrogen">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=xHydr0gen&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Hydrogen" />
-  </a>
-</div>
-<br>
 
-<br>
-<h2 align="center">🦁 Where to find me 🦁</h2>
+## 📊 GitHub Stats
+
+ ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHydr0gen&show_icons=true&count_private=true&hide=prs&theme=radical)
+ ![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=xHydrogen&theme=radical)
+
+## 📫 Connect with Me
+
 <!-- https://icons8.com -->
-<div align="center">
+<div align="left">
     <a href="https://www.facebook.com/profile.php?id=100064820711777" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Hydrogen-facebook" />
   </a>
   <a href="https://www.youtube.com/@anhtuannguyen4981" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="Hydrogen-youtube" />
   </a>
-</div>
+
+
 
 
