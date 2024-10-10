@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🔭 I have a passion for **Natural language processing** and am currently learning about them.
 - 🌱 I’m currently learning to become a **Full Stack Developer**.
 - 📫 How to reach me: [Email](mailto:nguyenanhtuan15092003@gmail.com)
-- 🎮 Fun fact: I like to sleep and play **Arena Of Valor**.
+- 🎮 Gaming: **Arena Of Valor**, **Geometry Dash**.
+- ⚡ Fun fact: When I'm sad, I look like...
 
 <p align="center">
   <img alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/02/d4/7e02d46ace448205435d8c10d66bbceb.gif">
@@ -40,14 +41,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## 📊 GitHub Stats
+<div align="center">
+
  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHydr0gen&show_icons=true&count_private=true&hide=prs&theme=radical)
  ![Your Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=xHydrogen&theme=radical)
  ![Your Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xHydr0gen&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
 ## 📫 Connect with Me
 
 <!-- https://icons8.com -->
-<div align="left">
+<div align="center">
     <a href="https://www.facebook.com/profile.php?id=100064820711777" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Hydrogen-facebook" />
   </a>
